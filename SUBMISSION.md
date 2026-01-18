@@ -1,0 +1,5 @@
+- Demonstrates controlled state mutation
+- Clear role-based access control
+- Explicit error handling
+- Clean Rust structure
+- Beginner-friendly and audit-readable
