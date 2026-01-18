@@ -91,7 +91,7 @@ Deployment is not required for this submission.
 cargo build
 cargo test
 ```
-cat << 'EOF' >> README.md
+
 ## Known Limitations
 
 - Contract is not deployed
